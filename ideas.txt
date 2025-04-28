@@ -1,2 +1,7 @@
-1. I want the prompt to come from a text file.
-2. Learn how to do this ^^ (using "with" context manager)
+1. have a way to randomly select one of the phrases for presentation
+
+
+Things I have learned:
+1. F-strings
+2. It is incredibly important to save your files before running scripts (lol)
+3. some experience w/ "with" context manager
