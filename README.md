@@ -1,10 +1,10 @@
 # llm_python
 
-I am going to attempt to have a Python script use Ollama and
-do something useful with them.
+This is a fun project which uses Ollama's llama3.2 model to generate phrases that are similar to the ones that
+the player is presented with when leveling up in The Elder Scrolls IV: Oblivion.
 
 I got the idea when playing Elder Scrolls IV Oblivion Remaster. Whenever you level up
-in that game, you are presented with a little motivational quote.
+in that game, you are presented with a little motivational quote, and they are pretty cool.
 
 Here is an example: "So that's how it works. You plod along, putting one foot before the other, look up, and suddenly, there you are. Right where you wanted to be all along."
 

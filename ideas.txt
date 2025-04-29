@@ -1,7 +1,8 @@
-1. have a way to randomly select one of the phrases for presentation
-
+1. write function that chooses random # between 0-len(phrases) and prints that line
 
 Things I have learned:
 1. F-strings
 2. It is incredibly important to save your files before running scripts (lol)
 3. some experience w/ "with" context manager
+4. readlines()
+5. len function

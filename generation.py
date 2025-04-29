@@ -3,7 +3,7 @@ from ollama import ChatResponse
 
 def generate_phrase():
   #reads in text file
-  with open('phrase_bank.txt', 'r') as file:
+  with open('phrase_bank.txt', 'r') as file: #returns file object and assigns it to "file" variable
       phrases = file.read()
 
   # creating the prompt environment using chat()
