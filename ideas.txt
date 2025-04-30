@@ -1,4 +1,8 @@
-1. write function that chooses random # between 0-len(phrases) and prints that line
+1. find a good way to present the phrase to the user
+    -find library
+2. Mess with the model options (it is starting to not do what I want it to do)
+    -model seems to be simply summaring the collection of phrases and not adding anything to it
+    -interestingly started to happen once I wrote phrase printing function in same file
 
 Things I have learned:
 1. F-strings
